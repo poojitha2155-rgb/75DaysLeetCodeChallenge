@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [3110-score-of-a-string](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |

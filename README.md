@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -74,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/poojitha2155-rgb/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
